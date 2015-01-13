@@ -51,7 +51,7 @@ html {
 
 body {
   margin: 0;
-  font: 1rem/1.5 "PT Sans", sans-serif;
+  font: 1rem/1.5 "Nanum Gothic", "PT Sans", sans-serif;
   color: #5a5a5a;
 }
 
@@ -111,7 +111,7 @@ blockquote:last-child{
 
 code,
 pre {
-  font-family: "PT Mono", Menlo, "Courier New", monospace;
+  font-family: "Nanum Gothic Coding", "PT Mono", Menlo, "Courier New", monospace;
   font-size: 95%;
 }
 code {

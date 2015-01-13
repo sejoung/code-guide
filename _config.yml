@@ -1,6 +1,6 @@
-name:          Code Guide by @mdo
-description:   Standards for developing flexible, durable, and sustainable HTML and CSS.
-url:           http://codeguide.co
+name:          Code Guide by @mdo / 한국어 번역 by @aliencubeorg
+description:   유연하고, 강인하고, 지속 가능한 HTML과 CSS 개발의 표준
+url:           http://code-guide.aliencube.org
 
 markdown:      rdiscount
 permalink:     pretty
