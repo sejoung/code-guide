@@ -1,6 +1,6 @@
 name:          Code Guide by @mdo / 한국어 번역 by @aliencubeorg
 description:   유연하고, 강인하고, 지속 가능한 HTML과 CSS 개발의 표준
-url:           http://code-guide.aliencube.org
+url:           http://sejoung.github.io/code-guide
 
 markdown:      rdiscount
 permalink:     pretty
